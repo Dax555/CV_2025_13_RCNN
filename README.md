@@ -28,7 +28,7 @@ $ pip install -r requirements.txt
 ---
 
 ## **Results & Performance**
-- **Accuracy:** ~XX%
+- **Accuracy:** 99.07%
 - **True Positive Rate (TPR):** 0.9907
 - **True Negative Rate (TNR):** 0.9999
 - Confusion Matrix, per-class accuracy, and other performance metrics are stored in `outputs/`.
